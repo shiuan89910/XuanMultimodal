@@ -1,0 +1,8 @@
+accelerate
+datasets[audio]
+#flash-attn
+git+https://github.com/huggingface/transformers.git
+moviepy
+#optimum
+pydub
+TTS
