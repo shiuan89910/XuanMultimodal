@@ -1,5 +1,13 @@
 # 0. 目錄
 
+
+
+# 1. XuanMultimodal 專案簡介
+透過整合視覺（圖像、視頻）和語言（文本、語音）處理能力，顯著提升了 LLM 系統對於複雜情境的理解和處理能力。
+此專案未來將探索更深層次的多模態融合技術，例如結合[視覺識別](https://github.com/haotian-liu/LLaVA)與語音和文本處理，以實現更加智能和自然的人機交互系統。
+
+
+
 # 3. 安裝與入門指南
 ## 3.1. 安裝 Conda
 首先，安裝 Conda 環境管理器。推薦使用 Miniconda，因為它比 Anaconda 更輕量。可以從以下連結下載安裝：
@@ -91,12 +99,16 @@ python txet_to_speech.py
 
 
 
-# 5. 致謝
+# 4. 致謝
 本專案的參考來源，特此致謝
-[openai](https://github.com/openai/whisper)
+[OpenAI 的 Whisper](https://github.com/openai/whisper)
+
 [Hugging Face 的 openai/whisper-medium]([https://huggingface.co/coqui/XTTS-v2](https://huggingface.co/openai/whisper-medium))
-[coqui-ai](https://github.com/coqui-ai/TTS)
+
+[coqui-ai 的 TTS](https://github.com/coqui-ai/TTS)
+
 [Hugging Face 的 coqui/XTTS-v2](https://huggingface.co/coqui/XTTS-v2)
-[haotian-liu](https://github.com/haotian-liu/LLaVA)
+
+[haotian-liu 的 LLAVA](https://github.com/haotian-liu/LLaVA)
 
 [回到目錄](#0-目錄)
