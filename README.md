@@ -110,9 +110,10 @@ python txet_to_speech.py
 
 # 4. 致謝
 本專案的參考來源，特此致謝
+
 [OpenAI 的 Whisper](https://github.com/openai/whisper)
 
-[Hugging Face 的 openai/whisper-medium]([https://huggingface.co/coqui/XTTS-v2](https://huggingface.co/openai/whisper-medium))
+[Hugging Face 的 openai/whisper-medium]([https://huggingface.co/coqui/XTTS-v2](https://huggingface.co/openai/whisper-medium)
 
 [coqui-ai 的 TTS](https://github.com/coqui-ai/TTS)
 
