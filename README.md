@@ -4,7 +4,7 @@
   - [2.1. 安裝 Conda](#21-安裝-conda)
   - [2.2. 建立 conda 環境](#22-建立-conda-環境)
   - [2.3. 安裝 git 與 pytorch](#23-安裝-git-與-pytorch)
-  - [2.4. 下載`XuanMultimodal`專案，並安裝 requirements 中的套件](#24-下載xuanmultimodal專案並安裝-requirements-中的套件)
+  - [2.4. 下載 XuanMultimodal 專案，並安裝 requirements 中的套件](#24-下載xuanmultimodal專案並安裝-requirements-中的套件)
   - [2.5. 下載 Speech-to-Text (STT) 與 Text-to-Speech (TTS) 模型](#25-下載-speech-to-text-stt-與-text-to-speech-tts-模型)
     - [2.5.1. 權重下載](#251-權重下載)
     - [2.5.2. 授權條款注意事項](#252-授權條款注意事項)
@@ -49,7 +49,7 @@ conda install pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 pytorch-cuda=
 ```
 
 
-## 2.4. 下載`XuanMultimodal`專案，並安裝 requirements 中的套件
+## 2.4. 下載 XuanMultimodal 專案，並安裝 requirements 中的套件
 下載以下連結的專案，並置於根目錄底下：
 [XuanMultimodal 專案](https://github.com/shiuan89910/XuanMultimodal/archive/refs/heads/main.zip)
 >根目錄的位置
