@@ -71,8 +71,8 @@ pip install -r requirements.txt
 ## 3.6. 啟動 .py 檔
 ### 3.6.1. STT，執行以下命令
 ```bash
-# 將手機錄製的 M4A 檔命名為 test.m4a
-# 並置於`XuanMultimodal`目錄底下
+# 將手機錄製的 M4A 檔，命名為 test.m4a
+# 並置於 XuanMultimodal 目錄底下
 
 python speech_to_text.py
 ```
@@ -81,6 +81,9 @@ python speech_to_text.py
 
 ### 3.6.2. TTS，執行以下命令
 ```bash
+# 將文本以 TXT 檔儲存，並命名為 test.txt
+# 並置於 XuanMultimodal 目錄底下
+
 python txet_to_speech.py
 ```
 
