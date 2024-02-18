@@ -113,7 +113,7 @@ python txet_to_speech.py
 
 [OpenAI 的 Whisper](https://github.com/openai/whisper)
 
-[Hugging Face 的 openai/whisper-medium]([https://huggingface.co/coqui/XTTS-v2](https://huggingface.co/openai/whisper-medium)
+[Hugging Face 的 openai/whisper-medium](https://huggingface.co/openai/whisper-medium)
 
 [coqui-ai 的 TTS](https://github.com/coqui-ai/TTS)
 
