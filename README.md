@@ -21,7 +21,7 @@
 
 [samples_zh-cn-sample 版本的語音專案簡介](https://github.com/shiuan89910/XuanProjectData/assets/128956667/3d11fb5a-709d-4180-9fcf-b26c8d870c26)
 
-[Xuan 版本的語音專案簡介](https://github.com/shiuan89910/XuanProjectData/blob/main/XuanMultimodal/%E5%B0%88%E6%A1%88%E7%B0%A1%E4%BB%8B_xuan.wav)
+[Xuan 版本的語音專案簡介](https://github.com/shiuan89910/XuanProjectData/assets/128956667/f20fccfc-b577-4192-a7f7-b0437a72db68)
 
 
 
