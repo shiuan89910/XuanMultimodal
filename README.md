@@ -19,11 +19,6 @@
 透過整合視覺（圖像、視頻）和語言（文本、語音）處理能力，顯著提升了 LLM 系統對於複雜情境的理解和處理能力。
 此專案未來將探索更深層次的多模態融合技術，例如結合[視覺識別](https://github.com/haotian-liu/LLaVA)與語音和[文本處理](https://github.com/shiuan89910/XuanRAG)，以實現更加智能和自然的人機交互系統。
 
-<audio controls>
-  <source src="https://github.com/shiuan89910/XuanProjectData/blob/main/XuanMultimodal/%E5%B0%88%E6%A1%88%E7%B0%A1%E4%BB%8B_samples_zh-cn-sample.wav" type="audio/wav">
-  您的瀏覽器不支持 audio 元素。
-</audio>
-
 [samples_zh-cn-sample 版本的語音專案簡介](https://github.com/shiuan89910/XuanProjectData/blob/main/XuanMultimodal/%E5%B0%88%E6%A1%88%E7%B0%A1%E4%BB%8B_samples_zh-cn-sample.wav)
 
 [Xuan 版本的語音專案簡介](https://github.com/shiuan89910/XuanProjectData/blob/main/XuanMultimodal/%E5%B0%88%E6%A1%88%E7%B0%A1%E4%BB%8B_xuan.wav)
