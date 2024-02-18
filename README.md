@@ -80,6 +80,7 @@ pip install -r requirements.txt
 ## 2.6. 啟動 .py 檔
 ### 2.6.1. STT，執行以下命令
 ```bash
+# 注意：在 speech_to_text.py 檔中 param_fp = {"model_id": "whisper-medium", ... } 的 "model_id" 預設模型與目錄名稱是 "whisper-medium"
 # 將手機錄製的 M4A 檔，命名為 test.m4a
 # 並置於 XuanMultimodal 目錄底下
 
@@ -88,6 +89,7 @@ python speech_to_text.py
 
 ### 2.6.2. TTS，執行以下命令
 ```bash
+# 注意：在 txet_to_speech.py 檔中 param_gen = {"model_folder": "XTTS-v2", ... } 的 "model_folder" 預設模型與目錄名稱是 "XTTS-v2"
 # 將文本以 TXT 檔儲存，並命名為 test.txt
 # 並置於 XuanMultimodal 目錄底下
 
